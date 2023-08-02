@@ -1,0 +1,21 @@
+.padd {
+  /* display: flex; */
+  /* flex-direction: column; */
+  padding: 7px 11px;
+}
+
+.gradiant{
+  background-image: linear-gradient(to right, rgb(39, 16, 78) , rgb(37, 23, 133));
+  color: white;
+}
+
+.gradiantlight{
+  background-image: linear-gradient(to right, rgb(29, 154, 63) , rgb(29, 145, 75));
+}
+
+.analyticCard{
+  background-image: linear-gradient(to right, rgb(29, 154, 63) , rgb(29, 145, 75));
+}
+.analyticCards{
+  background-image: linear-gradient(to right, rgb(39, 16, 78) , rgb(37, 23, 133));
+}
